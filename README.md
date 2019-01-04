@@ -2,6 +2,8 @@
 
 This project contains examples of some of the common operations performed in grayscale image in digital image processing. I created this project while studying Image Processing and Pattern Recognition during my undergraduate degree.
 
+The examples included here are only applicable for grayscale images. They may not / should not work for color images.
+
 ### Included Examples
 
   - Digital Negative
@@ -23,3 +25,5 @@ $ python main.py
 ```
 
 The ```/images``` directory contains some of the sample grayscale images that you can try operations on. But first, you need to copy the photo and bring it to the root directory, and then rename it to ```image.jpg```. You can even download your own grayscale image and try operations on them.
+
+[download python here] <https://www.python.org/downloads/>
